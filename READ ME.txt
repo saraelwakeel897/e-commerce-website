@@ -1,0 +1,52 @@
+Team Member:
+- Sara Ali El-Wakeel      (Leader)  (Back-End)
+- Rana Ashraf Rashwan (Front-End / Customer Panel)
+- Sarah Magdy Tawfik   (Front-End / Admin Panel)
+
+------------------------------------------------------------------------------
+
+Handmade E-commerce Website:
+- It contain our real handmade product
+ & videos to learn how make these.
+
+------------------------------------------------------------------------------
+
+Technologies:
+- Front-End: HTML, CSS, JS, Bootstrp, AJAX, JSON, jQuery
+- Back-End: php (oop)
+- DataBase: My SQL 
+
+------------------------------------------------------------------------------
+
+Pages:  (20 Pages)
+(Customer Panel)
+- Login
+- Registration
+- Home
+- About
+- Contact Us
+- Category (Animation, Mandela, Boxes, Crads)
+- Shop (Shop, WishList)
+- Profile (Change Password, Log Out)
+
+(Admin Panel)
+- Dashboard
+- Add Product
+- Add Videos
+- Add Users
+- Profile
+- Feedback
+- Log Out
+
+------------------------------------------------------------------------------
+
+Admin Account:
+Email: saraelwakeel897@gmail.com     --> (must be real email account to register)
+Password: 1111111111
+
+Customer Account:
+Email: smelwakeel333@gmail.com
+Password: 3333333333
+
+
+------------------------------------------------------------------------------
